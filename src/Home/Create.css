@@ -1,0 +1,24 @@
+.createBody{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.form{
+
+    margin-top: 50px;
+    height: 200px;
+    width: 50%;
+    /* border: 1px solid red; */
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+
+.btn{
+    width: 90px;
+    height: 30px;
+    border-radius: 10px;
+    background: black;
+    color: white;
+}
